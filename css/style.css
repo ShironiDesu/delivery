@@ -1,0 +1,13 @@
+.restaurant-card {
+    width: 400px;
+    border: 2px sandybrown solid;
+    padding: 1em;
+}
+
+.restaurant-card img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
